@@ -1,0 +1,31 @@
+.btn-group-sm>.btn, .btn-sm{
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    border-radius: 1.0rem;
+}
+.btn-info{
+    color: #d0eaf5;
+    background-color: #08b113;
+    border-color: #ced4da;
+}
+div.container-xl{
+    width: 400px;
+    border-radius: 5px;
+    border: 3px solid rgb(0, 107, 222);
+
+}
+.box1{
+
+    padding-top: 6px;
+    padding-left: 8px;
+    color: white;
+    height: 40px;;
+    border-radius: 5px;
+    width: 350px;
+    background-color: rgb(0, 107, 222);;
+    margin-bottom: 20px;
+}
+td button{
+    width: 28px;
+}
